@@ -1,0 +1,25 @@
+body {
+  background: rgb(255, 134, 20);
+  
+}
+.card-columns{
+  padding: 5%;
+  cursor: pointer;
+}
+.card-body:hover{
+  color: aqua;
+}
+.card-body{
+  background-color: black;
+  color: yellow;
+}
+button:hover{
+  color: blueviolet;
+}
+.blockquote{
+  background-color: black;
+  color: yellow;
+  padding: 4%;
+}
+
+  
